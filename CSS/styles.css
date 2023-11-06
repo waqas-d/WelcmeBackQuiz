@@ -1,0 +1,11 @@
+.body {
+    background-color: slategray;
+}
+
+.headerCenter {
+    justify-content: center;
+}
+
+.fontText {
+    font-family: 'Bitter', serif;;
+}
